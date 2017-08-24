@@ -11,6 +11,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //4444444444444444
+        onProvideAssistData(a
+asdsaffffffffffffffffff
+        asd
+        );
 
     }
 }
